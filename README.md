@@ -1,9 +1,9 @@
 # Web Portfolio ⚡️ ![GitHub stars](https://img.shields.io/github/stars/youngjun827/youngjun827.github.io)
 
-## A minimal portfolio template for Developers!
+## Please Enjoy!
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/youngjun827/youngjun827.github.io/blob/gh-pages/portfolio.gif" alt="Young Jun Joo's Portfolio" width="600px" />
   <br>
 </h2>
 
